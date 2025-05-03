@@ -1,0 +1,5 @@
+1.0.0 [13-03-2025]:
+ - Prima release pubblica!
+ - Questa versione contiene tutta la prima parte di Clannad con tutti i suoi scenari.
+   Si sconsiglia, attualmente, di giocare l'After Story poiché potrebbe presentare dei bug.
+   Nei prossimi update verrà implementato correttamente.
