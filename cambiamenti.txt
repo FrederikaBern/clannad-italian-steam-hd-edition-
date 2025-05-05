@@ -1,3 +1,8 @@
+1.1.0 [05-05-2025]:
+ - Implementato l'After Story.
+ - Corretti errori di battitura e altri bug vari nell'Arco Scolastico.
+
+
 1.0.0 [13-03-2025]:
  - Prima release pubblica!
  - Questa versione contiene tutta la prima parte di Clannad con tutti i suoi scenari.

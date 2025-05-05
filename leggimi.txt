@@ -6,6 +6,7 @@ BTA & CTH si sono occupati solamente del porting su questa versione del gioco.
 
 ## Patch
 13/03/2025 Versione 1.0
+05/05/2025 Versione 1.1
 
 Potete contattarci attraverso il nostro canale telegram:<br/>
 https://t.me/beyondtheataraxia
