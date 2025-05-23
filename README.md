@@ -5,6 +5,7 @@ Questa patch è un porting della traduzione effettuata dal team "GoS Italia" sul
 BTA & CTH si sono occupati solamente del porting su questa versione del gioco.
 
 ## Patch
+05/05/2025 Versione 1.1
 13/03/2025 Versione 1.0
 
 Potete contattarci attraverso il nostro canale telegram:<br/>
